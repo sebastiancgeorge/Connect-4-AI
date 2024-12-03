@@ -15,10 +15,5 @@ The game logic is implemented in JavaScript, and it is designed to be hosted as 
 3. Player 2 (Yellow) (AI) takes the next turn automatically.
 4. The first player to connect 4 pieces vertically, horizontally, or diagonally wins.
 
-## Deploy as GitHub Page
-1. Clone or download this repository.
-2. Push it to a GitHub repository.
-3. Enable GitHub Pages under the repository settings.
-
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
